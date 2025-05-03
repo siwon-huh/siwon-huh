@@ -17,16 +17,21 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:c4lvin@theori.io'>c4lvin@theori.io</a>
+  📫 How to reach me: <a href='mailto:c4lvin@4pillars.io'>c4lvin@4pillars.io</a>
 </p>
 
 # 📃 Resume
 
 ## Job Experience
--   👨‍💻 **Web3 Research Analyst**\
-    📆 2023.07 - Now\
+-   👨‍💻 **Research Analyst**\
+    📆 2025.05 - \
+    📍 **Four Pillars** - Seoul, South Korea\
+    💡 Researches on trending crypto projects
+
+-   👨‍💻 **Research Analyst**\
+    📆 2023.07 - 2025.04\
     📍 **Theori** - Seoul, South Korea\
-    💡 Securing Web3 Ecosystem @ChainLight, Theori
+    💡 Pre-audit researches / Due diligence @ChainLight, Theori
 
 ## Education
 
@@ -42,26 +47,11 @@
 
 ## Other Experience
 
--   👨‍💻 **Dreamplus Academy Hanhwa X Theori**\
-    📆 2023.03 - 2023.06\
-    📍 **Dreamplus Academy** - Seoul, South Korea\
-    💡 Trained cutting-edge Web3 security skills
-    
--   👨‍💻 **The Boat: EVM Contract Developers**\
-    📆 2023.03 - 2023.04\
-    📍 **Ludium** - Seoul, South Korea\
-    💡 Studied technical skills for EVM-based Smart Contract Developers
-
 -   👨‍💻 **Invited Researcher**\
     📆 2022.01 - 2022.07\
     📍 **CISPA Helmholtz Center for Information Security** - Saarbrücken, Germany\
     🔍 **Supervisor** - Yang Zhang\
     💡 Researched source code vulnerability detection using Explainable Graph Neural Network
-    
--   👨‍💻 **Office Assistant**\
-    📆 2018.06 - 2019.01\
-    📍 **SK C&C** - Seoul, South Korea\
-    💡 Assisted preprocessing of the Sound-to-Text data for training the model for illegality judgement in the insurance sales
     
 -   🪖 **Military Service**\
     📆 2016.08 - 2018.04\
